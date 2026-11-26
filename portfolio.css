@@ -13,8 +13,31 @@ img{
 background-repeat: no-repeat;
 background-size: cover;
 /* background: position 100px; */
-background-size: auto;
+width: 100%;
+height: 100%;
+background-position: center;
+
 background-attachment: fixed;
 
+
+}
+
+body{
+
+
+background-color: blanchedalmond;
+
+
+
+}
+
+
+button{
+
+
+margin-left: 600px;
+color:firebrick;
+width: 100px;
+height: 50x;
 
 }
