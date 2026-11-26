@@ -13,6 +13,7 @@ img{
 background-repeat: no-repeat;
 background-size: cover;
 /* background: position 100px; */
+background-size: auto;
 background-attachment: fixed;
 
 
