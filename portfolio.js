@@ -1,11 +1,11 @@
 
-let a = document.getElementById("l1").style
+let a = document.getElementById("l1")
 
 function myfunction(){
 
- if (a == "none") {
+ if (a.style.display == "none") {
 
- a = "block"
+    a.style.display = "block"
 
 
 
@@ -13,7 +13,7 @@ function myfunction(){
 }
 else{
 
-a == "none"
+a.style.display = "none"
 
 
 }}
