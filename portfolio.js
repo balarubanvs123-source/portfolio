@@ -1,9 +1,20 @@
+
+let a = document.getElementById("l1").style
+
 function myfunction(){
 
+ if (a == "none") {
 
-alert("fuck you g boy joe");
+ a = "block"
+
 
 
 
 }
+else{
+
+a == "none"
+
+
+}}
 
